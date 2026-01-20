@@ -25,9 +25,9 @@ Our strategy employs a three-node cyclical research framework where foundational
 ```mermaid
 graph TB
     subgraph System["Resilience Evaluation Platform - Cyclical Research System"]
-        N1["<b>NODE 1</b><br/>Foundational Research<br/>━━━━━━━━━━<br/>• Literature review<br/>• Dataset analysis<br/>• Scientific validation<br/>• Partner identification"]
-        N2["<b>NODE 2</b><br/>Engineering Research<br/>━━━━━━━━━━<br/>• Algorithm validation<br/>• Model optimization<br/>• Benchmarking<br/>• Performance analysis"]
-        N3["<b>NODE 3</b><br/>Product Implementation<br/>━━━━━━━━━━<br/>• Feature development<br/>• User testing<br/>• Data collection<br/>• Market validation"]
+        N1["<b></b><br/>Foundational Research<br/>━━━━━━━━━━<br/>• Literature review<br/>• Dataset analysis<br/>• Scientific validation<br/>• Partner identification"]
+        N2["<b></b><br/>Engineering Research<br/>━━━━━━━━━━<br/>• Algorithm validation<br/>• Model optimization<br/>• Benchmarking<br/>• Performance analysis"]
+        N3["<b></b><br/>Product Implementation<br/>━━━━━━━━━━<br/>• Feature development<br/>• User testing<br/>• Data collection<br/>• Market validation"]
         
         N1 -->|"Scientific foundation<br/>validates approach"| N2
         N2 -->|"Validated models<br/>power product"| N3
